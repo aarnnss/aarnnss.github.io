@@ -957,6 +957,14 @@ section,
     padding: 20px;
     width: 100vw;
   }
+
+  .hero .welcome h2 {
+    font-size: 32px;
+  }
+
+  .hero .welcome p {
+    font-size: 18px;
+  }
 }
 
 .hero .content {
